@@ -1,0 +1,37 @@
+
+.global-wrapper {
+    margin: 10%!important;
+}
+
+
+.global-wrapper:before {
+    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email mhl221135@gmail.com to resolve this issue!"!important;
+    opacity: 100%!important;
+    font-size: 10pt!important;
+    color: red!important;
+}
+
+.azx-popup-wrap.pr.oh.flex.c_center.alin_center,div#azexo-wrapper,.azexo-wrapper,#azx-footer,.header_section {
+    display: none!important;
+}
+
+/*password page*/
+
+
+.password-page__wrapper {
+    margin: 10%!important;
+}
+
+
+.password-page__wrapper:before {
+    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email mhl221135@gmail.com to resolve this issue!"!important;
+    opacity: 100%!important;
+    font-size: 10pt!important;
+    color: red!important;
+}
+
+#shopify-section-password-header,#shopify-section-password-content{
+display:none!important;
+}
+
+
