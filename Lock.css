@@ -5,7 +5,7 @@
 
 
 .global-wrapper:before {
-    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email mhl221135@gmail.com to resolve this issue!"!important;
+    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email develop@web-sites.site to resolve this issue!"!important;
     opacity: 100%!important;
     font-size: 10pt!important;
     color: red!important;
@@ -24,7 +24,7 @@
 
 
 .password-page__wrapper:before {
-    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email mhl221135@gmail.com to resolve this issue!"!important;
+    content: "Owner of this site not paid to theme author/developer, Or this theme is using without author permissions, if you reading this as current website owner - contact theme developer by email develop@web-sites.site to resolve this issue!"!important;
     opacity: 100%!important;
     font-size: 10pt!important;
     color: red!important;
